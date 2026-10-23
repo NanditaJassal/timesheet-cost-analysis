@@ -60,6 +60,3 @@ Install the required libraries if needed:
 pip install pandas matplotlib seaborn openpyxl
 
 
-Author
-
-Developed as a Python data analysis portfolio project.
